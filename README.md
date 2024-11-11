@@ -29,7 +29,7 @@ If you are a firefox user, please download `xpi` file in release page.
 
 
 ## Installation
-[![Microsoft store](assets/microsoft-badge.png)](https://microsoftedge.microsoft.com/addons/detail/media-harvest-twitter-m/mmijhjnobkeodfgoobnlmnpjllmlibkb)
+[![Microsoft store](assets/microsoft-badge-9rlvk08xgb.png)](https://microsoftedge.microsoft.com/addons/detail/media-harvest-twitter-m/mmijhjnobkeodfgoobnlmnpjllmlibkb)
 
 [![Chrome web store](assets/chrome-badge.jpg)](https://chrome.google.com/webstore/detail/media-harvest-twitter-med/hpcgabhdlnapolkkjpejieegfpehfdok)
 
