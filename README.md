@@ -33,6 +33,8 @@ If you are a firefox user, please download `xpi` file in release page.
 
 [![Chrome web store](assets/chrome-badge.jpg)](https://chrome.google.com/webstore/detail/media-harvest-twitter-med/hpcgabhdlnapolkkjpejieegfpehfdok)
 
+[![Firefox Browser Add-ons](assets/firefox-badge-2.jpg)](https://github.com/syahdafahreza/TwitterMediaHarvest/releases/download/v4.2.9/firefox-TwitterMediaHarvest-v4.2.9.zip)
+
 ## Support the project
 
 [![Support me on ko-fi](assets/ko-fi-badge.png)](https://ko-fi.com/eltonhy)
