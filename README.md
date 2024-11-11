@@ -34,6 +34,7 @@ If you are a firefox user, please download `xpi` file in release page.
 [![Chrome web store](assets/chrome-badge-5ng8k3y3y1.jpg)](https://chrome.google.com/webstore/detail/media-harvest-twitter-med/hpcgabhdlnapolkkjpejieegfpehfdok)
 
 [![Firefox Browser Add-ons](assets/firefox-badge-6gtzohyn9e.png)](https://github.com/syahdafahreza/TwitterMediaHarvest/releases/download/v4.2.9/firefox-TwitterMediaHarvest-v4.2.9.zip)
+> Note: currently, there is no Firefox Browser Add-on link yet. You have to download and install it manually
 
 ## Support the project
 
